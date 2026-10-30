@@ -2,11 +2,11 @@
 
 # Prompt
 
-**Zbuloni promte dhe sisteme krijuese.**
-
 [Македонски](README.mk.md) · [English](README.md) · [Shqip](README.sq.md) · [Türkçe](README.tr.md)
 
-<img src="assets/product-hero.svg" width="100%" alt="Prompt — AI resources; ilustrim konceptual" />
+<img src="assets/product-hero.svg" width="100%" alt="Prompt — prezantim vizual i produktit" />
+
+**Zbuloni promte dhe sisteme krijuese.**
 
 [![Website](https://img.shields.io/badge/prompt.mk-Official_Website-1476e8?style=for-the-badge)](https://prompt.mk/)
 [![Explore](https://img.shields.io/badge/Explore-Platform-14223c?style=for-the-badge)](https://prompt.mk/explore)
@@ -69,7 +69,7 @@ Struktura e zbulimit zvogëlon mospërputhjen mes burimit dhe përdorimit. Model
 | Hollësia | Vlera |
 |---|---|
 | Faqja | [prompt.mk](https://prompt.mk/) |
-| Kategoria | AI resources |
+| Kategoria | Burime AI dhe aftësi agjentësh |
 | Statusi | LIVE |
 | Zhvilluesi | [PROCESS IN](https://processin.mk) |
 | Kontakti i portofolit | [contact@processin.mk](mailto:contact@processin.mk) |
@@ -93,5 +93,4 @@ Burimet e prezantimit: [1](https://prompt.mk/explore).
 
 ---
 
-This platform is a digital product of <a href="https://processin.mk" target="_blank">PROCESS IN</a> · Your Enterprise Software & AI Partner · <br />
-Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a> ·
+This platform is a digital product of <a href="https://processin.mk" target="_blank" >PROCESS IN </a>· Your Enterprise Software & AI Partner · <br />Hosted on Enterprise Infrastructure by <a href="https://inhost.mk" target="_blank">INHOST</a>·
